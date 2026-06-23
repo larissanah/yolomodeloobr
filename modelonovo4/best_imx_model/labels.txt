@@ -1,0 +1,4 @@
+mortos
+vivos
+prata
+preto
